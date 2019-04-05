@@ -10,7 +10,7 @@ public class Car {
 		//ClassName variable=new ClassName();
 		//1ST Object
 		
-		Car car1=new Car();
+		Car car1=new Car(); //OBJECT
 		car1.make="Honda";
 		car1.model="Civic";
 		car1.color="Black";
