@@ -8,6 +8,7 @@ public class Task {
 		}else {
 			System.out.println("B is larger than A");
 		}
+		
 	}
 	public static void main(String [] args) {
 		Task obj=new  Task();

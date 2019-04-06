@@ -22,7 +22,12 @@ public class Greetings1 {
 	void askHowAreYou3(String name) {
 		System.out.println("How are you "+name);
 	}
-	String whatIsADay() {
+	
+	
+	
+	
+	String whatIsADay() {//New Method(String)   <----
+		System.out.println("I am inside a method");
 		return"Thursday";
 	}
 	
