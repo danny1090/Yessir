@@ -2,9 +2,10 @@ package com.class1;
 
 public class DataTypes {
 public static void main(String[] args) {
-	//TODO Auto-generated method stub
+	
 	//creating variables
 	//numbers family
+	
 	byte b=-128;
 	System.out.println(b);
 	short s=3276;
@@ -13,6 +14,7 @@ public static void main(String[] args) {
 	System.out.println(i);
 	long l=7587558578667l;
 	System.out.println(l);
+	
 	//numbers with decimals 
 	
 	float f=2.2f;
@@ -23,6 +25,7 @@ public static void main(String[] args) {
 	
 	char c='A';
 	System.out.println('A');
+	
 	//boolean (true or false)
 	
 	boolean g=false;
