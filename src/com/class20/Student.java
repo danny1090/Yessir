@@ -25,12 +25,16 @@ public class Student {
 		 }
 		return grade;
 
-		public static void main(String[] args) {
-		Student obj=new Student();
+		public static void main(String [] args) {
+			
+			Student obj=new Student();
+			
+			obj.getGrade(77);
+			System.out.println("");
+			
+			
+		}
 		
-		obj.getGrade(77);
-		System.out.println("");
-
 	}	
 	}
-}
+
