@@ -23,18 +23,15 @@ public class Student {
 		 }else {
 			grade='F';
 		 }
+	
 		return grade;
-
-		public static void main(String [] args) {
-			
-			Student obj=new Student();
-			
-			obj.getGrade(77);
-			System.out.println("");
-			
-			
-		}
-		
-	}	
 	}
+	public static void main(String[] args) {
 
+		Student obj = new Student();
+
+		obj.getGrade(77);
+		System.out.println("");
+
+	}
+}

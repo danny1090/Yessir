@@ -9,7 +9,8 @@ public class Task {
 
 	 String createEmail(String usersName, String lastName, String emailType) {
 		String email= usersName+lastName+"@"+emailType+".com";
-		return;
+		return email;
+	 }
 		
 		
 		public static void main(String[] args) {
