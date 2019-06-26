@@ -15,9 +15,7 @@ public class FinalKeyword {
 		//str="John";
 		//name="School";
 		
-		public final void hello() {
-			System.out.println("Hello from Parent class");
-		}
+		
 		
 	}
 

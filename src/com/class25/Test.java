@@ -6,7 +6,7 @@ public class Test {
 		Student stu=new SyntaxStudent();
 		stu.study();
 		stu.doHomeWork();
-		stu.attendClasses("Hello", 10);
+		stu.attendClasses();
 		
 	}
 

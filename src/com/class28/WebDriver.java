@@ -6,8 +6,6 @@ public interface WebDriver {
 	void closeBrowser();
 	void maximizeWindow();
 	void findElement();
-	
-	
 }
 class ChromeDriver implements WebDriver{
 
